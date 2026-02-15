@@ -54,12 +54,6 @@ python main.py
 
 ---
 
-## 🖼️ Screenshot
-
-(Add a screenshot of the GUI here after uploading one)
-
----
-
 ## 📄 License
 
 This project is created for educational and mini-project purposes.
